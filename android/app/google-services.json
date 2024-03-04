@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203370435513",
+    "project_id": "checklist-6012f",
+    "storage_bucket": "checklist-6012f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203370435513:android:4a208f7d454ec9cb329c68",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeF3AlE5g3DQ9MjkNdg5TvLwr4tosWj7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
